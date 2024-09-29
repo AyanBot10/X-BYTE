@@ -3,7 +3,7 @@
   "description": "X-BYTE buttoned version of Byte..",
   "logo": "https://raw.githubusercontent.com/HyHamza/HyHamza/main/Images/XByte-logo.png",
   "keywords": ["xbyte", "bot", "whatsapp bot", "multi device", "X-BYTE"],
-  "success_url": "/",
+  "success_url": ".",
 
   "env": {
     "SESSION_ID": {
@@ -34,7 +34,7 @@
     "OWNER_NUMBER": {
             "description": "Put Your number here",
             "required": true,
-            "value": "923458017380"
+            "value": "8801631486512"
 },
     "ANTI_DELETE": {
             "description": "Anti delete to true or false",
